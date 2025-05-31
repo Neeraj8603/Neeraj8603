@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" style="border-radius:10px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
+<img align="right" alt="Coding" style="border-radius:10px" src="[https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tuNTFnb3hmdXRva3k2bHk0NjhoOTZvbHFlcTF6dGVyMjA0ZHZ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)">
 
 
 
