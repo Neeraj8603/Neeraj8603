@@ -1,3 +1,8 @@
+<img align="right" alt="Coding" style="border-radius:10px" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
+
+
+
+
 <h1 align="center">Hi 👋, I'm Neeraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
