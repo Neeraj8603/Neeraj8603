@@ -1,4 +1,4 @@
-<img align="right" alt="Coding GIF" style="border-radius:10px; width:900px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tuNTFnb3hmdXRva3k2bHk0NjhoOTZvbHFlcTF6dGVyMjA0ZHZ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" alt="Coding GIF" style="border-radius:10px; width:600px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tuNTFnb3hmdXRva3k2bHk0NjhoOTZvbHFlcTF6dGVyMjA0ZHZ5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
 
 <br><br><br>
 
