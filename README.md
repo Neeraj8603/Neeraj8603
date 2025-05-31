@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neeraj Kumar Nayak</h1>
+<h1 align="center">Hi 👋, I'm Neeraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj8603&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj8603" /> </p>
