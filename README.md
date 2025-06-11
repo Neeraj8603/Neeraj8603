@@ -10,27 +10,27 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeraj8603" alt="neeraj8603" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<!--
 - 🔭 I’m currently working on **a**
-
+<!--
 - 🌱 I’m currently learning **a**
-
+<!--
 - 👯 I’m looking to collaborate on **a**
-
+<!--
 - 🤝 I’m looking for help with **a**
-
+<!--
 - 👨‍💻 All of my projects are available at [a](a)
-
+<!--
 - 📝 I regularly write articles on [a](a)
-
+<!--
 - 💬 Ask me about **a**
 
 - 📫 How to reach me **neeraj.nayak003@gmail.com**
-
+<!--
 - 📄 Know about my experiences [a](a)
 
 - ⚡ Fun fact **a**
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/neerajnayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerajnayak" height="30" width="40" /></a>
